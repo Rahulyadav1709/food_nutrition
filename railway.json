@@ -1,9 +1,0 @@
-{
-    "build": {
-      "builder": "npm"
-    },
-    "deploy": {
-      "startCommand": "node index.js"
-    }
-  }
-  
